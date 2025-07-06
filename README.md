@@ -22,13 +22,17 @@ Video Link: https://drive.google.com/file/d/1G0BxDf1-a5x0iGzpSpGp9RHh5SYlTEmG/vi
 
 5. Built using Unreal’s beginner templates, making it modular, readable, and easy to extend with new features.
 
-# Installation
+# Installation:
 Clone the Repository
+
 Open the project in Unreal Engine 5.6
+
 Play
 
-Controls
+# Controls:
+
 W A S D for basic controls and mouse click for attack.
 
-Credits
+# Credits:
+
 This game is being inspired by this video made by this video: https://www.youtube.com/watch?v=LOhfqjmasi0](https://www.youtube.com/watch?v=TzHKrV8Z1AU Thanks for the motivation.
