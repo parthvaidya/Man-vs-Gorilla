@@ -1,5 +1,3 @@
-Video Link: https://drive.google.com/file/d/1G0BxDf1-a5x0iGzpSpGp9RHh5SYlTEmG/view?usp=sharing
-
 # MAN vs Gorilla 3D
 This game was built using Unreal Engine 5.6, following a beginner-friendly tutorial designed to showcase the latest tools and systems. It focuses on core mechanics, clean visuals, and performance optimization, making it a great foundation for future expansion or experimentation.
 
